@@ -57,3 +57,5 @@ push_pr.ps1
 bundle-size-report.json
 size-limit-report*.json
 .glassbox-cache/
+config.bat
+node_modules
