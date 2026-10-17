@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1156-08-add-watch-mode-troubleshooting",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1156-08-add-watch-mode-troubleshooting": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1156-08-add-watch-mode-troubleshooting",
+    "origin"
+  ]
+}
